@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WikiRacers</string>
+    <string name="browser_landscape_mode_textview">Browser Window : LANDSCAPE MODE</string>
+    <string name="browser_portrait_mode_textview">Browser Window : PORTRAIT MODE</string>
+    <string name="menu_portrait_mode_textview">Welcome To WikiRacers!</string>
+
+</resources>
